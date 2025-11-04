@@ -41,4 +41,4 @@ jobs:
         with:
           args: >
             -Dsonar.projectKey=Akarsh-10_HealthCare
-            -Dsonar.organization=akarsh-10  # Replace with your SonarCloud org
+            -Dsonar.organization=akarsh-10
